@@ -1,4 +1,4 @@
-# challenge_week_7
+# ETF_analysis
 SQL and Voila 
 
 This porject utilizes SQL, Pandas and hvplot in order to analyze an ETF consiting of 4 equally weighted stocks.  
