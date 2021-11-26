@@ -1,7 +1,7 @@
 # ETF_analysis
 SQL and Voila 
 
-This porject utilizes SQL, Pandas and hvplot in order to analyze an ETF consiting of 4 equally weighted stocks.  
+This project utilizes SQL, Pandas and hvplot in order to analyze an ETF consiting of 4 equally weighted stocks.  
 SQL Tables are created, joined and read multiple times in order to wrangle the data needed to calcualte and plot cumaualtive returns 
 while also calcualting annualized returns for 1 stock as well as the entire portfolio.  
 
